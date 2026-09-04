@@ -1,5 +1,5 @@
 # palakrama
-organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/service, alur project palakrama dari beberapa service/packages berada [disini](https://github.com/orgs/palakrama/projects/1).
+organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/service, alur project dari beberapa service/packages berada [disini](https://github.com/orgs/palakrama/projects/1). untuk proses pengembangan code diawali dengan struktur monolit di dalam service utama sampai menyentuh kestabilan yang di tentukan. 
 
 <table>
    <tr>
