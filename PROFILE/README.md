@@ -47,18 +47,12 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap 
   </tr>
 </table>
 
-# tools
-organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap modul/service. 
-- **backend:** go, python
-- **frontend:** react, js
-- **system:** linux
-- **tooling:** nvim, dbeaver
-  
+# alat
 <table width="100%">
   <tr>
     <td align="center">
       <br>
-      <b>The best results come from combining both approaches</b> — understanding the "why" while leveraging the "how" to ship faster and better software.
+      github | dbeaver | archlinux | nvim
     </td>
   </tr>
 </table>
