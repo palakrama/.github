@@ -1,12 +1,17 @@
-# Selamat Datang di Palakrama 🚀
+# palakrama 🚀
+organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di tiap modul/service. 
+- **backend:** go, python
+- **frontend:** react, js
+- **system:** linux
+- **tooling:** nvim, shell, dbeaver
 
-Kami adalah organisasi yang berfokus pada pengembangan perangkat lunak modern, andal, dan terstruktur.
+### 📖 service
+- **auth:** Type Microservice. Data from Stats is processed here and then sent to the destination.
+- **stats:** Type Microservice. Management stats page & presence for Palakrama
+- **communication:** -
+- **rsvp:** Type Microservice. RSVP's management for Palakrama
+- **analytic:** Type Microservice. Data from Stats is processed here and then sent to the destination.
 
-### 🛠️ Tech Stack & Ekosistem
-- **Backend:** Go, Python (Django)
-- **Systems & Networking:** Linux, C++, Embedded
-- **Tooling:** Neovim, Shell, Docker
-
-### 📖 Panduan Anggota Tim
-- Baca [CONTRIBUTING.md](./CONTRIBUTING.md) sebelum mulai berkontribusi.
-- Patuhi [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) di semua lini komunikasi.
+### 📖 packages
+- **site:** -
+- **templates:** -
