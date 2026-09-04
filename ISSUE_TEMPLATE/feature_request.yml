@@ -1,0 +1,17 @@
+name: "✨ Permintaan Fitur"
+description: Usulkan ide atau peningkatan fitur baru.
+title: "[FEAT]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Deskripsi Fitur
+      description: Jelaskan fitur apa yang ingin ditambahkan dan alasannya.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Usulan Solusi / Implementasi
+      description: Gambaran teknis atau alur kerja yang kamu sarankan.
