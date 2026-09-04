@@ -6,12 +6,12 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di tiap mo
 - **tooling:** nvim, shell, dbeaver
 
 ### 📖 service
-- **auth:** Type Microservice. Data from Stats is processed here and then sent to the destination.
-- **stats:** Type Microservice. Management stats page & presence for Palakrama
-- **communication:** -
-- **rsvp:** Type Microservice. RSVP's management for Palakrama
-- **analytic:** Type Microservice. Data from Stats is processed here and then sent to the destination.
+- **auth:** manajemen autentifikasi akun user
+- **stats:** penyimpanan statistik & kehadiran halaman
+- **communication:** pesan ke user; verifikasi & notifikasi
+- **rsvp:** manajemen rsvp dari guest sampai terdaftar
+- **analytic:** -
 
 ### 📖 packages
-- **site:** -
-- **templates:** -
+- **site:** manajemen host; ex: palakrama.id/site/{hostname} -> {hostname}.palakrama.id/
+- **templates:** portofolio
