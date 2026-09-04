@@ -22,11 +22,15 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
       </td>
       <td valign="top" align="center">
          ok<br />
-         ok<br />
-         ok<br />
+         <a href="https://github.com/palakrama/stats/actions/workflows/go.yml">
+          <img src="https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg" alt="Go Status" />
+         </a><br />
+         <a href="https://github.com/palakrama/communication/actions/workflows/go.yml">
+          <img src="https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg" alt="Go Status" />
+         </a><br />
          <a href="https://github.com/palakrama/rsvp/actions/workflows/go.yml">
           <img src="https://github.com/palakrama/rsvp/actions/workflows/go.yml/badge.svg" alt="Go Status" />
-        </a><br />
+         </a><br />
          ok<br />
          ok<br />
       </td>
