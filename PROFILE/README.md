@@ -1,8 +1,6 @@
 # palakrama
-organize ini untuk pengembangan palakrama & sebagai acuan
-konsistensi di setiap modul/service.
+organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap modul/service.
 
-# arsitektur
 <table>
    <tr>
       <td align="center">service</td>
@@ -36,11 +34,9 @@ konsistensi di setiap modul/service.
    </tr>
 </table>
 
-# alat
 <table width="100%">
    <tr>
       <td align="center" valign="top">
-         <br />
          github | dbeaver | archlinux | nvim
       </td>
    </tr>
