@@ -15,3 +15,22 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap 
 ### 📖 packages
 - [**site:**](https://github.com/palakrama/site) manajemen host; ex: palakrama.id/site/{hostname} -> {hostname}.palakrama.id/
 - [**templates:**](https://github.com/palakrama/templates) portofolio
+  
+<table >
+  <tr>
+    <td width="50%"  valign="top">
+      <h3>💡 Manual Coding</h3>
+      • Deep understanding of fundamentals<br>
+      • Problem-solving from first principles<br>
+      • Building solid architectural foundations<br>
+      • Crafting clean, maintainable code<br><br>
+    </td>
+    <td width="50%"  valign="top">
+      <h3>⚡ Vibe Coding</h3>
+      • Rapid prototyping with AI assistance<br>
+      • Automating repetitive boilerplate<br>
+      • Exploring creative solutions faster<br>
+      • Accelerating the development cycle<br><br>
+    </td>
+  </tr>
+</table>
