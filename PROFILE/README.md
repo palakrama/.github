@@ -39,7 +39,7 @@ konsistensi di setiap modul/service.
 # alat
 <table width="100%">
    <tr>
-      <td align="center">
+      <td align="center" valign="top">
          <br />
          github | dbeaver | archlinux | nvim
       </td>
