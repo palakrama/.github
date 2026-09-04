@@ -28,12 +28,12 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap 
          ok<br />
       </td>
       <td valign="top">
-         link<br />
-         link<br />
-         link<br />
-         link<br />
-         link<br />
-         link<br />
+         <a href="https://github.com/palakrama/auth">📄</a><br />
+         <a href="https://github.com/palakrama/stats">link</a><br />
+         <a href="https://github.com/palakrama/communication">link</a><br />
+         <a href="https://github.com/palakrama/rsvp">link</a><br />
+         <a href="https://github.com/palakrama/analytic">link</a><br />
+         <a href="https://github.com/palakrama/palakrama">link</a><br />
       </td>
       <td valign="top">
          site<br />
@@ -44,8 +44,8 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap 
          ok<br />
       </td>
       <td valign="top">
-         link<br />
-         link<br />
+         <a href="https://github.com/palakrama/site">link</a><br />
+         <a href="https://github.com/palakrama/templates">link</a><br />
       </td>
    </tr>
 </table>
