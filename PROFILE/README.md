@@ -53,7 +53,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 <table width="100%">
    <tr>
       <td align="center" valign="top">
-         github | dbeaver | archlinux | nvim | go | postgresql | tailwind | cloudflare | python | xfce4
+         github | dbeaver | archlinux | nvim | go | postgresql | tailwind | cloudflare | python | xfce4 | html | typescript | jsx
       </td>
    </tr>
 </table>
