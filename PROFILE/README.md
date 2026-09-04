@@ -5,11 +5,18 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap 
 - **system:** linux
 - **tooling:** nvim, dbeaver
 
-### 📖 service
+### 📖 arsitektur
 <table >
   <tr>
+    <td>
+      service
+    </td>
+    <td>
+      packages
+    </td>
+  </tr>
+    <tr>
     <td valign="top">
-      <h3>service</h3>
         • auth<br>
         • stats<br>
         • communication<br>
@@ -17,7 +24,6 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap 
         • analytic<br>
     </td>
     <td valign="top">
-      <h3>packages</h3>
         • site<br>
         • templates<br>
     </td>
