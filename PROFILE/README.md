@@ -19,7 +19,7 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap 
          analytic<br />
          palakrama<br />
       </td>
-      <td valign="top">
+      <td valign="top" align="center">
          ok<br />
          ok<br />
          ok<br />
@@ -27,25 +27,25 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap 
          ok<br />
          ok<br />
       </td>
-      <td valign="top">
-         <a href="https://github.com/palakrama/auth">📄</a><br />
-         <a href="https://github.com/palakrama/stats">link</a><br />
-         <a href="https://github.com/palakrama/communication">link</a><br />
-         <a href="https://github.com/palakrama/rsvp">link</a><br />
-         <a href="https://github.com/palakrama/analytic">link</a><br />
-         <a href="https://github.com/palakrama/palakrama">link</a><br />
+      <td valign="top" align="center">
+         <a href="https://github.com/palakrama/auth">🔗</a><br />
+         <a href="https://github.com/palakrama/stats">🔗</a><br />
+         <a href="https://github.com/palakrama/communication">🔗</a><br />
+         <a href="https://github.com/palakrama/rsvp">🔗</a><br />
+         <a href="https://github.com/palakrama/analytic">🔗</a><br />
+         <a href="https://github.com/palakrama/palakrama">🔗</a><br />
       </td>
       <td valign="top">
          site<br />
          templates<br />
       </td>
-      <td valign="top">
+      <td valign="top" align="center">
          ok<br />
          ok<br />
       </td>
-      <td valign="top">
-         <a href="https://github.com/palakrama/site">link</a><br />
-         <a href="https://github.com/palakrama/templates">link</a><br />
+      <td valign="top" align="center">
+         <a href="https://github.com/palakrama/site">🔗</a><br />
+         <a href="https://github.com/palakrama/templates">🔗</a><br />
       </td>
    </tr>
 </table>
