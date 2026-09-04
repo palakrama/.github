@@ -17,6 +17,7 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap 
          communication<br />
          rsvp<br />
          analytic<br />
+         palakrama<br />
       </td>
       <td valign="top">
          ok<br />
@@ -24,8 +25,10 @@ organize ini untuk pengembangan palakrama & sebagai acuan konsistensi di setiap 
          ok<br />
          ok<br />
          ok<br />
+         ok<br />
       </td>
       <td valign="top">
+         link<br />
          link<br />
          link<br />
          link<br />
