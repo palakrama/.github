@@ -5,10 +5,10 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
    <tr>
       <td align="center">service</td>
       <td align="center">status</td>
-      <td align="center">project</td>
+      <td align="center">rep</td>
       <td align="center">packages</td>
       <td align="center">status</td>
-      <td align="center">project</td>
+      <td align="center">rep</td>
    </tr>
    <tr>
       <td valign="top">
