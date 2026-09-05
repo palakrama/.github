@@ -3,7 +3,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 
 | repositories | type |  port | status |
 | :--- | :---: | :---: | :---: |
-| [palakrama](https://github.com/palakrama/palakrama) | service | `3000` | `ok` |
+| [palakrama](https://github.com/palakrama/palakrama-web) | service | `3000` | `ok` |
 | [templates](https://github.com/palakrama/templates) | packages | `include` | `ok` | 
 | [site](https://github.com/palakrama/site) | packages | `include` |`ok` | 
 | [auth](https://github.com/palakrama/auth) | service | `8083` | [![Go Status](https://github.com/palakrama/auth/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/auth/actions/workflows/go.yml) |
