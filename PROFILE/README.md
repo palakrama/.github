@@ -21,7 +21,9 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
          palakrama<br />
       </td>
       <td valign="top" align="center">
-         ok<br />
+         <a href="https://github.com/palakrama/auth/actions/workflows/go.yml">
+          <img src="https://github.com/palakrama/auth/actions/workflows/go.yml/badge.svg" alt="Go Status" />
+         </a><br />
          <a href="https://github.com/palakrama/stats/actions/workflows/go.yml">
           <img src="https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg" alt="Go Status" />
          </a><br />
