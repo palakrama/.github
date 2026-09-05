@@ -10,6 +10,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [communication](https://github.com/palakrama/communication) | service | [![Go Status](https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/communication/actions/workflows/go.yml) |
 | [rsvp](https://github.com/palakrama/rsvp) | service | [![Go Status](https://github.com/palakrama/rsvp/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/rsvp/actions/workflows/go.yml) |
 | [stats](https://github.com/palakrama/stats) | service | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) |
+| [order](https://github.com/palakrama/order) | service | `ok` |
 | [analytic](https://github.com/palakrama/analytic) | service | `null` |
 
 <table width="100%">
