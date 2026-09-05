@@ -1,7 +1,7 @@
 # palakrama
 organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/service, alur project dari beberapa service/packages berada [disini](https://github.com/orgs/palakrama/projects/1). untuk proses pengembangan code diawali dengan struktur monolit di dalam service utama sampai menyentuh kestabilan yang di tentukan. <img src="https://shields.io" alt="Last Commit">
 
-| repositories | type |  port | Status |
+| repositories | type |  port | status |
 | :--- | :---: | :---: | :---: |
 | [palakrama](https://github.com/palakrama/palakrama) | service | `3000` | `ok` |
 | [templates](https://github.com/palakrama/templates) | packages | `include` | `ok` | 
