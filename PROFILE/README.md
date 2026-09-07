@@ -12,6 +12,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [stats](https://github.com/palakrama/stats) | service | `8080` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) |
 | [order](https://github.com/palakrama/order) | service | `8084` | `ok` |
 | [analytic](https://github.com/palakrama/analytic) | service | `null` | `null` |
+| [site](https://github.com/palakrama/site) | service | `8085` | `ok` |
 
 <table width="100%">
    <tr>
