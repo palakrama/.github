@@ -22,12 +22,10 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 </table>
 
 ## 🛠️ api gates & method stats
-| Endpoint | Method | Middleware / Auth | Deskripsi |
+| Endpoint | Method | Middleware / Auth |
 | :--- | :--- | :--- | :--- |
-| `/health` | `GET` | Public | Pengecekan status server (Health Check). Mengembalikan `200 OK`. |
-| `/stats` | `GET` | `StatsAuth` | Mengambil data agregat atau riwayat statistik yang tersimpan. |
-| `/stats/preview` | `POST` | `StatsAuth` | Menambahkan (*increment*) jumlah hitungan preview. |
-| `/stats/try` | `POST` | `StatsAuth` | Menambahkan (*increment*) jumlah hitungan percobaan (*try*). |
-| `/stats/view` | `POST` | `StatsAuth` | Menambahkan (*increment*) jumlah hitungan tayangan (*view*). |
-
----
+| `/health` | `GET` | Public |
+| `/stats` | `GET` | `StatsAuth` |
+| `/stats/preview` | `POST` | `StatsAuth` |
+| `/stats/try` | `POST` | `StatsAuth` |
+| `/stats/view` | `POST` | `StatsAuth` |
