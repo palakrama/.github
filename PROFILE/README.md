@@ -5,7 +5,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | :--- | :---: | :---: | :---: |
 | [palakrama](https://github.com/palakrama/palakrama) | service | `3000` | `ok` |
 | [templates](https://github.com/palakrama/templates) | packages | `include` | `ok` | 
-| [site](https://github.com/palakrama/site) | packages | `include` |`ok` | 
+| [domains](https://github.com/palakrama/domains) | packages | `include` |`ok` | 
 | [auth](https://github.com/palakrama/auth) | service | `8083` | [![Go Status](https://github.com/palakrama/auth/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/auth/actions/workflows/go.yml) |
 | [communication](https://github.com/palakrama/communication) | service | `8082` | [![Go Status](https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/communication/actions/workflows/go.yml) |
 | [rsvp](https://github.com/palakrama/rsvp) | service | `8081` | [![Go Status](https://github.com/palakrama/rsvp/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/rsvp/actions/workflows/go.yml) |
