@@ -14,22 +14,17 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [analytic](https://github.com/palakrama/analytic) | service | `null` | `null` |
 
 ## api gates & method
-### stats
 | Endpoint | Method | Middleware / Auth |
 | :--- | :--- | :--- |
-| `/health` | `GET` | Public |
-| `/stats` | `GET` | `StatsAuth` |
-| `/stats/preview` | `POST` | `StatsAuth` |
-| `/stats/try` | `POST` | `StatsAuth` |
-| `/stats/view` | `POST` | `StatsAuth` |
-### communication
-| Endpoint | Method | Middleware / Auth |
-| :--- | :--- | :--- |
-| `/health` | `GET` | Public |
-| `/stats` | `GET` | `StatsAuth` |
-| `/stats/preview` | `POST` | `StatsAuth` |
-| `/stats/try` | `POST` | `StatsAuth` |
-| `/stats/view` | `POST` | `StatsAuth` |
+| `stats/health` | `GET` | Public |
+| `stats/stats` | `GET` | `StatsAuth` |
+| `stats/stats/preview` | `POST` | `StatsAuth` |
+| `stats/stats/try` | `POST` | `StatsAuth` |
+| `stats/stats/view` | `POST` | `StatsAuth` |
+| `communication/health` | `GET` | *None* |
+| `communication/ready` | `GET` | *None* |
+| `communication/verification/email` | `POST` | `ServiceKey` |
+| `communication/verification/email/verify` | `POST` | `ServiceKey` |
 
 <table width="100%">
    <tr>
