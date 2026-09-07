@@ -25,6 +25,34 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | `communication/ready` | `GET` | *None* |
 | `communication/verification/email` | `POST` | `ServiceKey` |
 | `communication/verification/email/verify` | `POST` | `ServiceKey` |
+| `rsvp/health` | `GET` | *None* |
+| `rsvp/ready` | `GET` | *None* |
+| `rsvp/guests` | `GET` | `ServiceKey` |
+| `rsvp/guests` | `POST` | `ServiceKey` |
+| `rsvp/guests/{guestId}` | `PATCH` | `ServiceKey` |
+| `rsvp/guests/{guestId}` | `DELETE` | `ServiceKey` |
+| `rsvp/rsvp` | `GET` | `ServiceKey` |
+| `rsvp/rsvp` | `POST` | `ServiceKey` |
+| `auth/health` | `GET` | *None* |
+| `auth/ready` | `GET` | *None* |
+| `auth/auth/register` | `POST` | *None* |
+| `auth/auth/login` | `POST` | *None* |
+| `auth/auth/me` | `GET` | *None* |
+| `auth/auth/logout` | `POST` | *None* |
+| `auth/internal/email/verified` | `POST` | `RequireServiceKey` |
+| `auth/internal/email/verified/session` | `POST` | `RequireServiceKey` |
+| `order/health` | `GET` | *None* |
+| `order/ready` | `GET` | *None* |
+| `order/orders/hostname/{hostname}/status` | `GET` | *None* |
+| `order/webhooks/midtrans` | `POST` | *None* |
+| `order/internal/orders` | `POST` | `ServiceKey` |
+| `order/internal/orders/site/{sitePublicId}/resume-payment` | `POST` | `ServiceKey` |
+| `order/internal/orders/site/{sitePublicId}/latest` | `GET` | `ServiceKey` |
+| `order/internal/orders/site/{sitePublicId}/sync-payment` | `POST` | `ServiceKey` |
+| `order/internal/orders/user/{userPublicId}` | `GET` | `ServiceKey` |
+| `order/internal/orders/site/{sitePublicId}` | `GET` | `ServiceKey` |
+| `order/internal/orders/midtrans/{midtransOrderId}` | `GET` | `ServiceKey` |
+
 
 <table width="100%">
    <tr>
