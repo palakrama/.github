@@ -23,7 +23,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 
 ## 🛠️ api gates & method stats
 | Endpoint | Method | Middleware / Auth |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | `/health` | `GET` | Public |
 | `/stats` | `GET` | `StatsAuth` |
 | `/stats/preview` | `POST` | `StatsAuth` |
