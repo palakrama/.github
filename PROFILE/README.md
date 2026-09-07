@@ -21,7 +21,8 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
    </tr>
 </table>
 
-## 🛠️ api gates & method stats
+## api gates & method
+### stats
 | Endpoint | Method | Middleware / Auth |
 | :--- | :--- | :--- |
 | `/health` | `GET` | Public |
