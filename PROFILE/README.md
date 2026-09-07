@@ -13,14 +13,6 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [order](https://github.com/palakrama/order) | service | `8084` | `ok` |
 | [analytic](https://github.com/palakrama/analytic) | service | `null` | `null` |
 
-<table width="100%">
-   <tr>
-      <td align="center" valign="top">
-         github | dbeaver | archlinux | nvim | go | postgresql | tailwind | cloudflared | python | xfce4 | html | typescript | jsx
-      </td>
-   </tr>
-</table>
-
 ## api gates & method
 ### stats
 | Endpoint | Method | Middleware / Auth |
@@ -30,3 +22,19 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | `/stats/preview` | `POST` | `StatsAuth` |
 | `/stats/try` | `POST` | `StatsAuth` |
 | `/stats/view` | `POST` | `StatsAuth` |
+### communication
+| Endpoint | Method | Middleware / Auth |
+| :--- | :--- | :--- |
+| `/health` | `GET` | Public |
+| `/stats` | `GET` | `StatsAuth` |
+| `/stats/preview` | `POST` | `StatsAuth` |
+| `/stats/try` | `POST` | `StatsAuth` |
+| `/stats/view` | `POST` | `StatsAuth` |
+
+<table width="100%">
+   <tr>
+      <td align="center" valign="top">
+         github | dbeaver | archlinux | nvim | go | postgresql | tailwind | cloudflared | python | xfce4 | html | typescript | jsx
+      </td>
+   </tr>
+</table>
