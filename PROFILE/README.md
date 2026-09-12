@@ -6,7 +6,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [palakrama](https://github.com/palakrama/palakrama) | [service](https://github.com/orgs/palakrama/projects/7) | `3000` | `ok` |
 | [templates](https://github.com/palakrama/templates) | packages | `include` | `ok` | 
 | [domains](https://github.com/palakrama/domains) | packages | `include` | `ok` | 
-| [stats](https://github.com/palakrama/stats) | service | `8080` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) |
+| [stats](https://github.com/palakrama/stats) | [service](https://github.com/orgs/palakrama/projects/9) | `8080` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) |
 | [analytic](https://github.com/palakrama/analytic) | service | `null` | `null` |
 | [rsvp](https://github.com/palakrama/rsvp) | [service](https://github.com/orgs/palakrama/projects/8) | `8081` | [![Go Status](https://github.com/palakrama/rsvp/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/rsvp/actions/workflows/go.yml) |
 | [communication](https://github.com/palakrama/communication) | [service](https://github.com/orgs/palakrama/projects/13) | `8082` | [![Go Status](https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/communication/actions/workflows/go.yml) |
