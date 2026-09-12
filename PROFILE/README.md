@@ -3,16 +3,16 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 
 | repositories | type/project |  port | status |
 | :--- | :---: | :---: | :---: |
-| [palakrama](https://github.com/palakrama/palakrama) | [service](https://github.com/orgs/palakrama/projects/7/views/1) | `3000` | `ok` |
+| [palakrama](https://github.com/palakrama/palakrama) | [service](https://github.com/orgs/palakrama/projects/7) | `3000` | `ok` |
 | [templates](https://github.com/palakrama/templates) | packages | `include` | `ok` | 
 | [domains](https://github.com/palakrama/domains) | packages | `include` | `ok` | 
 | [stats](https://github.com/palakrama/stats) | service | `8080` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) |
 | [analytic](https://github.com/palakrama/analytic) | service | `null` | `null` |
-| [rsvp](https://github.com/palakrama/rsvp) | service | `8081` | [![Go Status](https://github.com/palakrama/rsvp/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/rsvp/actions/workflows/go.yml) |
-| [communication](https://github.com/palakrama/communication) | service | `8082` | [![Go Status](https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/communication/actions/workflows/go.yml) |
-| [auth](https://github.com/palakrama/auth) | service | `8083` | [![Go Status](https://github.com/palakrama/auth/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/auth/actions/workflows/go.yml) |
-| [order](https://github.com/palakrama/order) | service | `8084` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/order/actions/workflows/go.yml) |
-| [site](https://github.com/palakrama/site) | service | `8085` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/site/actions/workflows/go.yml) |
+| [rsvp](https://github.com/palakrama/rsvp) | [service](https://github.com/orgs/palakrama/projects/8) | `8081` | [![Go Status](https://github.com/palakrama/rsvp/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/rsvp/actions/workflows/go.yml) |
+| [communication](https://github.com/palakrama/communication) | [service](https://github.com/orgs/palakrama/projects/13) | `8082` | [![Go Status](https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/communication/actions/workflows/go.yml) |
+| [auth](https://github.com/palakrama/auth) | [service](https://github.com/orgs/palakrama/projects/11) | `8083` | [![Go Status](https://github.com/palakrama/auth/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/auth/actions/workflows/go.yml) |
+| [order](https://github.com/palakrama/order) | [service](https://github.com/orgs/palakrama/projects/10) | `8084` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/order/actions/workflows/go.yml) |
+| [site](https://github.com/palakrama/site) | [service](https://github.com/orgs/palakrama/projects/12/views/1) | `8085` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/site/actions/workflows/go.yml) |
 
 <table width="100%">
    <tr>
