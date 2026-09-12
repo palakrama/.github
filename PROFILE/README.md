@@ -1,9 +1,9 @@
 # palakrama
 organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/service, alur project dari beberapa service/packages berada [disini](https://github.com/orgs/palakrama/projects/1). untuk proses pengembangan code diawali dengan struktur monolit di dalam service utama sampai menyentuh kestabilan yang di tentukan, assets dari palakrama backup [disini](https://github.com/palakrama/assets).
 
-| repositories | type |  port | status |
+| repositories | type/project |  port | status |
 | :--- | :---: | :---: | :---: |
-| [palakrama](https://github.com/palakrama/palakrama) | service | `3000` | `ok` |
+| [palakrama](https://github.com/palakrama/palakrama) | service | [`3000`](https://github.com/orgs/palakrama/projects/7/views/1) | `ok` |
 | [templates](https://github.com/palakrama/templates) | packages | `include` | `ok` | 
 | [domains](https://github.com/palakrama/domains) | packages | `include` | `ok` | 
 | [stats](https://github.com/palakrama/stats) | service | `8080` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) |
