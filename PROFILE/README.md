@@ -1,7 +1,3 @@
-[![Latest Release](https://img.shields.io/github/v/release/palakrama/auth?label=release)](https://github.com/palakrama/auth/releases/latest)
-[![Release](https://img.shields.io/github/v/release/palakrama/auth)](https://github.com/palakrama/auth/releases/latest)
-[![Release](https://img.shields.io/github/v/release/palakrama/auth)](https://github.com/palakrama/auth/releases/latest)
-
 # palakrama
 organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/service, alur project dari beberapa service/packages berada [disini](https://github.com/orgs/palakrama/projects/15). untuk proses pengembangan code diawali dengan struktur monolit di dalam service utama sampai menyentuh kestabilan yang di tentukan, assets dari palakrama backup [disini](https://github.com/palakrama/assets).
 
