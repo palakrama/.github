@@ -9,7 +9,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [stats](https://github.com/palakrama/stats) | service | `8080` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) | 
 | [analytic](https://github.com/palakrama/analytic) | service | `null` | `null` | 
 | [rsvp](https://github.com/palakrama/rsvp) | service | `8081` | [![Go Status](https://github.com/palakrama/rsvp/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/rsvp/actions/workflows/go.yml) | 
-| [communication](https://github.com/palakrama/communication) | service | `8082` | [![Go Status](https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/communication/actions/workflows/go.yml) | 
+| [communication (v1.0.0)](https://github.com/palakrama/communication) | service | `8082` | [![Go Status](https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/communication/actions/workflows/go.yml) | 
 | [auth (v1.0.0)](https://github.com/palakrama/auth) | service | `8083` | [![Go Status](https://github.com/palakrama/auth/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/auth/actions/workflows/go.yml) | 
 | [order](https://github.com/palakrama/order) | service | `8084` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/order/actions/workflows/go.yml) | 
 | [site](https://github.com/palakrama/site) | service | `8085` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/site/actions/workflows/go.yml) | 
