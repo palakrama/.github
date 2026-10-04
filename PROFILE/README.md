@@ -15,6 +15,20 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [site](https://github.com/palakrama/site) | service | `8085` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/site/actions/workflows/go.yml) | 
 | [blog](https://github.com/palakrama/blog) | service | `8086` | [![Go Status](https://github.com/palakrama/blog/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/blog/actions/workflows/go.yml) | 
 
+## karena garap dewe, tak jadwal ngene iki
+*note: jadwal dibentuk sebagai acuan dan tidak harus.
+| hari | repositories |
+| :--- | :--- |
+| selasa | analytic |
+| rabu | domain, site |
+| kamis | stats,  order|
+| jum'at | templates, blog, communication |
+| sabtu | auth, audit palakrama, domains |
+| minggu | rsvp |
+
+## kata-kata penyemangat
+lakukan apa yang kamu mulai, buktikan apa yang selama ini kamu inginkan sampai terwujud
+
 <table width="100%">
    <tr>
       <td align="center" valign="top">
