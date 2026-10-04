@@ -13,7 +13,6 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | minggu | rsvp |
 
 ## repositoris
-tiap repositories seharusnya ada readme.md, informasi perubahan/tujuan.
 | repositories | type/project |  port | status |
 | :--- | :---: | :---: | :---: |
 | [palakrama](https://github.com/palakrama/palakrama) | service | `3000` | `ok` | 
