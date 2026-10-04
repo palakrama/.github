@@ -1,6 +1,19 @@
 # palakrama
 organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/service, alur project dari beberapa service/packages berada [disini](https://github.com/orgs/palakrama/projects/15). untuk proses pengembangan code diawali dengan struktur monolit di dalam service utama sampai menyentuh kestabilan yang di tentukan, assets dari palakrama backup [disini](https://github.com/palakrama/assets).
 
+## karena garap dewe, tak jadwal ngene iki
+*note: jadwal dibentuk sebagai acuan dan tidak harus.
+| hari | repositories |
+| :--- | :--- |
+| selasa | analytic |
+| rabu | domain, site |
+| kamis | stats,  order|
+| jum'at | templates, blog, communication |
+| sabtu | auth, audit palakrama, domains |
+| minggu | rsvp |
+
+## repositoris
+tiap repositories seharusnya ada readme.md, informasi perubahan/tujuan.
 | repositories | type/project |  port | status |
 | :--- | :---: | :---: | :---: |
 | [palakrama](https://github.com/palakrama/palakrama) | service | `3000` | `ok` | 
@@ -15,19 +28,8 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [site](https://github.com/palakrama/site) | service | `8085` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/site/actions/workflows/go.yml) | 
 | [blog](https://github.com/palakrama/blog) | service | `8086` | [![Go Status](https://github.com/palakrama/blog/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/blog/actions/workflows/go.yml) | 
 
-## karena garap dewe, tak jadwal ngene iki
-*note: jadwal dibentuk sebagai acuan dan tidak harus.
-| hari | repositories |
-| :--- | :--- |
-| selasa | analytic |
-| rabu | domain, site |
-| kamis | stats,  order|
-| jum'at | templates, blog, communication |
-| sabtu | auth, audit palakrama, domains |
-| minggu | rsvp |
-
 ## kata-kata penyemangat
-lakukan apa yang kamu mulai, buktikan apa yang selama ini kamu inginkan sampai terwujud
+lakukan apa yang kamu mulai, buktikan apa yang selama ini kamu inginkan sampai terwujud. wes pokok e Bismillah
 
 <table width="100%">
    <tr>
