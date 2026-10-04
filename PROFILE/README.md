@@ -13,6 +13,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [auth (v1.0.0)](https://github.com/palakrama/auth) | service | `8083` | [![Go Status](https://github.com/palakrama/auth/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/auth/actions/workflows/go.yml) | 
 | [order](https://github.com/palakrama/order) | service | `8084` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/order/actions/workflows/go.yml) | 
 | [site](https://github.com/palakrama/site) | service | `8085` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/site/actions/workflows/go.yml) | 
+| [blog](https://github.com/palakrama/blog) | service | `8086` | [![Go Status](https://github.com/palakrama/blog/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/blog/actions/workflows/go.yml) | 
 
 <table width="100%">
    <tr>
