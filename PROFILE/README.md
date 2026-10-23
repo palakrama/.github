@@ -19,7 +19,6 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [templates](https://github.com/palakrama/templates) | v1.1.0 | packages | `include` | [![Templates CI](https://github.com/palakrama/templates/actions/workflows/ci.yml/badge.svg)](https://github.com/palakrama/templates/actions/workflows/ci.yml) | V | 
 | [domains](https://github.com/palakrama/domains) | v0.0.4 | packages | `include` | `ok` | 
 | [stats](https://github.com/palakrama/stats) | v0.2.7 | service | `8080` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) | 
-| [analytic](https://github.com/palakrama/analytic) | V | service | `null` | `null` | 
 | [rsvp](https://github.com/palakrama/rsvp) | v0.2.12 | service | `8081` | [![Go Status](https://github.com/palakrama/rsvp/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/rsvp/actions/workflows/go.yml) | 
 | [communication](https://github.com/palakrama/communication) | v1.1.0 | service | `8082` | [![Go Status](https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/communication/actions/workflows/go.yml) | 
 | [auth](https://github.com/palakrama/auth) | v1.1.0 | service | `8083` | [![Go Status](https://github.com/palakrama/auth/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/auth/actions/workflows/go.yml) | 
