@@ -5,7 +5,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | repositories | versi | type/project |  port | status |
 | :--- | :---: | :---: | :---: |  :---: |
 | [palakrama](https://github.com/palakrama/palakrama) | v0.4.35 | service | `3000` | `ok` | 
-| [admin](https://github.com/palakrama/admin) | null | service | `3000` | `ok` | 
+| [admin](https://github.com/palakrama/admin) | null | service | `3001` | `ok` | 
 | [templates](https://github.com/palakrama/templates) | v1.1.0 | packages | `include` | [![Templates CI](https://github.com/palakrama/templates/actions/workflows/ci.yml/badge.svg)](https://github.com/palakrama/templates/actions/workflows/ci.yml) | V | 
 | [ui](https://github.com/palakrama/ui) | null | packages | `include` | `ok` | 
 | [stats](https://github.com/palakrama/stats) | v0.2.7 | service | `8080` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) | 
