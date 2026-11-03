@@ -5,8 +5,9 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | repositories | versi | type/project |  port | status |
 | :--- | :---: | :---: | :---: |  :---: |
 | [palakrama](https://github.com/palakrama/palakrama) | v0.4.35 | service | `3000` | `ok` | 
+| [admin](https://github.com/palakrama/admin) | null | service | `3000` | `ok` | 
 | [templates](https://github.com/palakrama/templates) | v1.1.0 | packages | `include` | [![Templates CI](https://github.com/palakrama/templates/actions/workflows/ci.yml/badge.svg)](https://github.com/palakrama/templates/actions/workflows/ci.yml) | V | 
-| [domains](https://github.com/palakrama/domains) | v0.0.4 | packages | `include` | `ok` | 
+| [ui](https://github.com/palakrama/ui) | null | packages | `include` | `ok` | 
 | [stats](https://github.com/palakrama/stats) | v0.2.7 | service | `8080` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) | 
 | [rsvp](https://github.com/palakrama/rsvp) | v0.2.12 | service | `8081` | [![Go Status](https://github.com/palakrama/rsvp/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/rsvp/actions/workflows/go.yml) | 
 | [communication](https://github.com/palakrama/communication) | v1.1.0 | service | `8082` | [![Go Status](https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/communication/actions/workflows/go.yml) | 
