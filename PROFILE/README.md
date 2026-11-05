@@ -16,7 +16,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [site](https://github.com/palakrama/site) | v0.2.9 | service | `8085` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/site/actions/workflows/go.yml) | 
 | [blog](https://github.com/palakrama/blog) | v0.2.8 | service | `8086` | [![Go Status](https://github.com/palakrama/blog/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/blog/actions/workflows/go.yml) | 
 | [media](https://github.com/palakrama/media) | null | service | `8087` | [![Go Status](https://github.com/palakrama/media/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/media/actions/workflows/go.yml) | 
-
+Update: 11052026
 ## kata-kata penyemangat
 lakukan apa yang kamu mulai, buktikan apa yang selama ini kamu inginkan sampai terwujud. wes pokok e Bismillah
 
