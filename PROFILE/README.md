@@ -19,7 +19,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [site](https://github.com/palakrama/site) | v0.3.0 | service | `8085` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/site/actions/workflows/go.yml) | 
 | [blog](https://github.com/palakrama/blog) | v0.5.0 | service | `8086` | [![Go Status](https://github.com/palakrama/blog/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/blog/actions/workflows/go.yml) | 
 | [media](https://github.com/palakrama/media) | v0.4.0 | service | `8087` | [![Go Status](https://github.com/palakrama/media/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/media/actions/workflows/go.yml) | 
-| [commenct](https://github.com/palakrama/comment) | v0.4.0 | service | ? | ok |
+| [comment](https://github.com/palakrama/comment) | v0.4.0 | service | ? | ok |
 
 
 ## kata-kata penyemangat
