@@ -10,7 +10,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [ui](https://github.com/palakrama/ui) | v0.8.0 | packages | `include` | `ok` | 
 | [contracts](https://github.com/palakrama/contracts) | v0.8.0 | packages | `include` | `ok` |
 | [editor](https://github.com/palakrama/editor) | v0.8.0 | packages | `include` | `ok` |
-| [palakrama-go](https://github.com/palakrama/palakrama-go) | v0.8.0 | packages | `include` | `ok` |
+| [palakrama-go](https://github.com/palakrama/palakrama-go) | v0.8.0 | packages | `include` | [![Go CI](https://github.com/palakrama/palakrama-go/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/palakrama-go/actions/workflows/go.yml) |
 | [stats](https://github.com/palakrama/stats) | v0.3.0 | service | `8080` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/stats/actions/workflows/go.yml) | 
 | [rsvp](https://github.com/palakrama/rsvp) | v0.2.19 | service | `8081` | [![Go Status](https://github.com/palakrama/rsvp/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/rsvp/actions/workflows/go.yml) | 
 | [communication](https://github.com/palakrama/communication) | v1.1.0 | service | `8082` | [![Go Status](https://github.com/palakrama/communication/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/communication/actions/workflows/go.yml) | 
@@ -19,7 +19,7 @@ organize ini untuk pengembangan palakrama & sebagai konsistensi di setiap modul/
 | [site](https://github.com/palakrama/site) | v0.3.0 | service | `8085` | [![Go Status](https://github.com/palakrama/stats/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/site/actions/workflows/go.yml) | 
 | [blog](https://github.com/palakrama/blog) | v0.5.0 | service | `8086` | [![Go Status](https://github.com/palakrama/blog/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/blog/actions/workflows/go.yml) | 
 | [media](https://github.com/palakrama/media) | v0.4.0 | service | `8087` | [![Go Status](https://github.com/palakrama/media/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/media/actions/workflows/go.yml) | 
-| [comment](https://github.com/palakrama/comment) | v0.4.0 | service | `8088` | ok |
+| [comment](https://github.com/palakrama/comment) | v0.4.0 | service | `8088` | [![Go CI](https://github.com/palakrama/comment/actions/workflows/go.yml/badge.svg)](https://github.com/palakrama/comment/actions/workflows/go.yml) |
 
 
 ## kata-kata penyemangat
